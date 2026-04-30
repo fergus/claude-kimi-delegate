@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "name": "claude-kimi-delegate",
+    "version": "1.0.0",
+    "owner": "",
+    "homepage": ""
+  },
+  "plugins": [
+    {
+      "name": "claude-kimi-delegate",
+      "description": "Delegate tasks from Claude Code to Kimi Code CLI via a structured file-based bridge",
+      "version": "1.0.0",
+      "category": "integration",
+      "keywords": [
+        "kimi",
+        "delegation",
+        "bridge",
+        "cli",
+        "cross-agent"
+      ],
+      "skills": ["./"]
+    }
+  ]
+}
