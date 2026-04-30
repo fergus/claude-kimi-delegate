@@ -2,8 +2,8 @@
   "metadata": {
     "name": "claude-kimi-delegate",
     "version": "1.0.0",
-    "owner": "",
-    "homepage": ""
+    "owner": "fergus",
+    "homepage": "https://github.com/fergus/claude-kimi-delegate"
   },
   "plugins": [
     {
