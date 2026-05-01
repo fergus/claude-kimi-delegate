@@ -3,7 +3,7 @@
   "name": "claude-kimi-delegate",
   "metadata": {
     "description": "Delegate tasks from Claude Code to Kimi Code CLI via a structured file-based bridge",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "owner": {
     "name": "fergus",
@@ -13,7 +13,7 @@
     {
       "name": "claude-kimi-delegate",
       "description": "Delegate tasks from Claude Code to Kimi Code CLI via a structured file-based bridge",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "fergus",
         "url": "https://github.com/fergus"
