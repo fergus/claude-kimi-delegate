@@ -1,24 +1,33 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-kimi-delegate",
   "metadata": {
-    "name": "claude-kimi-delegate",
-    "version": "1.0.0",
-    "owner": "fergus",
-    "homepage": "https://github.com/fergus/claude-kimi-delegate"
+    "description": "Delegate tasks from Claude Code to Kimi Code CLI via a structured file-based bridge",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "fergus",
+    "url": "https://github.com/fergus/claude-kimi-delegate"
   },
   "plugins": [
     {
       "name": "claude-kimi-delegate",
       "description": "Delegate tasks from Claude Code to Kimi Code CLI via a structured file-based bridge",
       "version": "1.0.0",
+      "author": {
+        "name": "fergus",
+        "url": "https://github.com/fergus"
+      },
+      "source": "./",
       "category": "integration",
-      "keywords": [
+      "homepage": "https://github.com/fergus/claude-kimi-delegate",
+      "tags": [
         "kimi",
         "delegation",
         "bridge",
         "cli",
         "cross-agent"
-      ],
-      "skills": ["./"]
+      ]
     }
   ]
 }

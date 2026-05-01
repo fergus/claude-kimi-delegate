@@ -2,9 +2,12 @@
   "name": "claude-kimi-delegate",
   "description": "Delegate tasks from Claude Code to Kimi Code CLI via a structured file-based bridge. Triggered when the user says 'Kimi, ...' or asks to hand work to Kimi.",
   "version": "1.0.0",
-  "author": "fergus",
+  "author": {
+    "name": "fergus",
+    "url": "https://github.com/fergus"
+  },
   "homepage": "https://github.com/fergus/claude-kimi-delegate",
-  "repository": "https://github.com/fergus/claude-kimi-delegate"
+  "repository": "https://github.com/fergus/claude-kimi-delegate",
   "license": "MIT",
   "skills": "./"
 }

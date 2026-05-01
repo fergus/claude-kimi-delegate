@@ -25,7 +25,7 @@ From within any project where you want to use the bridge:
 
 ```bash
 # Clone the skill repo (or install via marketplace)
-git clone https://github.com/YOUR_USERNAME/claude-kimi-delegate.git /tmp/claude-kimi-delegate
+git clone https://github.com/fergus/claude-kimi-delegate.git /tmp/claude-kimi-delegate
 
 # Run the install script
 cd your-project
